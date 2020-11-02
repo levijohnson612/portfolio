@@ -1,0 +1,28 @@
+body {
+ background-color: white;
+}
+
+p {
+  color: black;
+  }
+
+.billboard {
+  margin: auto;
+  width: 50%;
+  border: 3px solid black;
+  padding: 10px;
+  margin-top: 50px;
+  
+}
+
+.billboardText {
+  margin: auto;
+  margin-bottom: 10px;
+  width: 50%;
+  font-size: 21pt;
+  text-align: center;
+}
+
+.billboardText p2 {
+  font-size: 12pt;
+}
